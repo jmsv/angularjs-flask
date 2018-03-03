@@ -32,4 +32,4 @@ if __name__ == '__main__':
         DEBUG=True,
         TEMPLATES_AUTO_RELOAD=True
     )
-    app.run(port=8000)
+    app.run()
