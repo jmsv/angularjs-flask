@@ -1,4 +1,11 @@
 # angularjs-flask
+
+---
+
+> :warning: Warning! [AngularJS](https://angularjs.org) is considered outdated nowadays - Feel free to still use this boilerplate, although I recommend using [Angular](https://angular.io/) (2+) instead
+
+---
+
 some lovely boilerplate for an angularjs + python flask web app
 
 ## Getting Started
